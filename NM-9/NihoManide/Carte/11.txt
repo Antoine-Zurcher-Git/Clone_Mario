@@ -1,0 +1,28 @@
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                               R      R            
+                                                                              RR      RR           
+                                                                             RRLLL  LLLRR          
+                                                                           RRRRRLLLLLLRRRR         
+                                                                          RRRRRRRLLLLRRRRRR        
+                                                                        HHRRRRRRRRRLRRRRRRRRRH     
+                                        BB                           HHHRRRRRRRRRRRLRRRRRRRRRRHH   
+                                      BB  BB                    HHHHHRRRRRRRRRRRRRRLRRRLRRRRRRRRHHH
+                                     B      B                  HHRRRRRRRRRRRRRRRRRRLRRLRRRRRRRRRRRR
+                                    BBG   C BB                 HRRRRRRRRRRRRRRRRRRRLRLRRRRRRRRRRRRR
+                                   B BG   C B B               HHRRRRRRRRRRRRRLLRRRRLRLRRRRRRRRRRRRR
+                      HH             B      B                 RRRRRRRRRRRRRRRRRLRRRLLRRRRRRRRRRRRRR
+                     HHHH            BBB BBBB                 RRRRRRRRRRRRRRRRRRLLLLRRRRRRRRRRRRRRR
+                     HHHHHH          B      B                 RRRRRRRRRRRRRRRRRRRRRLRRRRRRRRRRRRRRR
+  A              HHHHHHHHHHH                                 HRRRRRRRRRRRRRRRRRRRRLLLRRRRRRRRRRRRRR
+               HHHHHHHHHHHHHH                               HHRRRRRRRRRRRRRRRRRRRLLLLRRRRRRRRRRRRRR
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHRHRHRBBBBBBBBHHHEEHHHHHHHHHHHHRRRRRRRRRRRRRRRRRRRLLLLLRRRRRRRRRRRRR
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRREERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRLLLLLLLRRRRRRRRRRRR
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRREERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRLLLLLLLLRRRRRRRRRRR
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRREERRRRRRRRRRRRRRRRRRRRRRRRRRRRRLLLLLLLLLLRRRRRRRRRR
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRREERRRRRRRRRRRRRRRRRRRRRRRRRRRRLLLLLLLLLLLRRRRRRRRRR
+95

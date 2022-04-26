@@ -1,0 +1,28 @@
+              P                                    
+              P                                    
+  A           P                                    
+              P                                    
+RRRR          P                                    
+    D         P                                    
+     D        P                                    
+      D       P                                    
+       D      P                                    
+        D     P                                    
+         D    P                                    
+          D   P                            BBBBBBBB
+           D  P                       PPP  PPP     
+             XP         P                    P     
+                        P                    P     
+            X           P                    P     
+                                             P     
+                                         T   P     
+                                             P     
+                        P        XX          P     
+                        P                    P     
+         D              P                    P     
+                        P                    P     
+             DDDD    T  P   T          T     P     
+                                             P     
+                                             P     
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+47
