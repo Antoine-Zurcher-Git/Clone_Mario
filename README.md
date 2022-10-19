@@ -1,7 +1,7 @@
 # Clone_Mario
 
 ## Principe :
-Jeux de platforme 2D, integrant aussi un générateur de carte
+Jeux de platforme 2D, intégrant aussi un générateur de carte
 
 Projet initial datant de 2018
 
